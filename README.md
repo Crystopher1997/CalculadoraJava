@@ -4,6 +4,10 @@
 Aplicação desktop de calculadora desenvolvida em Java utilizando Swing (JFrame).  
 O projeto tem como objetivo praticar conceitos de lógica de programação, manipulação de eventos e organização de código.
 
+<img width="401" height="762" alt="image" src="https://github.com/user-attachments/assets/f02216ac-f531-496b-8201-5e8a62e2ab1d" />
+
+
+
 ## 🚀 Funcionalidades
 - Soma
 - Subtração
